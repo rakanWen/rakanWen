@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rakanWen
+- 👀 I’m interested in Natural Language Processing
+- 🌱 I’m currently learning sequential modeling methods
+- 💞️ I’m looking to collaborate on dialogue and recommendation
+- 📫 How to reach me：Email(xfwen@hust.edu.cn)
