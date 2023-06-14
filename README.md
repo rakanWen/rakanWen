@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @rakanWen
-- 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning sequential modeling methods
-- 💞️ I’m looking to collaborate on dialogue and recommendation
-- 📫 How to reach me：Email(xfwen@hust.edu.cn)
+- 👀 I’m interested in Dialogue System
+- 📫 How to reach me：Email(xfwen@hust.edu.cn/wenxiaofei1999@gmail.com)
