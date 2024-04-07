@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @rakanWen
 - 👀 I’m interested in Dialogue System
-- 💻 A Fuxi NLP intern at Netease, used to be an Ant group intern for recommendation
 - 📫 How to reach me：Email(xfwen@hust.edu.cn)
