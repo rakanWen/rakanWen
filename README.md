@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rakanWen
+- 👋 Hi, I’m @rakanWen a CS PhD Student at UCDavis
 - 👀 I’m interested in Dialogue System
-- 📫 How to reach me：Email(xfwen@hust.edu.cn)
+- 📫 How to reach me：Email(xfwe@ucdavis.edu)
