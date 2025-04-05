@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rakanWen a CS PhD Student at UCDavis
-- 👀 I’m interested in LLM safeguarding and Dialogue System
+- 👀 I’m interested in LLM Reasoning and Scaling
 - 📫 How to reach me：Email(xfwe@ucdavis.edu)
