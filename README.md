@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @rakanWen a CS PhD Student at UCDavis
-- 👀 I’m interested in LLM Reasoning and Scaling
+- 👀 I’m interested in analysis of foundation models and image content understanding.
 - 📫 How to reach me：Email(xfwe@ucdavis.edu)
